@@ -20,7 +20,7 @@ export default function App() {
       <TextInput
         placeholder="useless placeholder"
         keyboardType="default"
-        inputMode="numeric"
+        inputMode="none"
       />
     </View>
   );
