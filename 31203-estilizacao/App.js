@@ -95,7 +95,6 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   coluna: {
-    flexDirection: "column",
     backgroundColor: "#eeeeee",
     borderRadius: 6,
     padding: 4,
