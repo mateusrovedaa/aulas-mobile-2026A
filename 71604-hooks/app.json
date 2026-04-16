@@ -1,0 +1,8 @@
+{
+  "name": "2803-app",
+  "slug": "2803-app",
+  "scheme": "2803-app",
+  "plugins": [
+    "expo-router"
+  ]
+}
