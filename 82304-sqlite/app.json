@@ -1,0 +1,9 @@
+{
+  "name": "71704-sqlite",
+  "slug": "71704-sqlite",
+  "scheme": "71704-sqlite",
+  "plugins": [
+    "expo-router",
+    "expo-sqlite"
+  ]
+}
