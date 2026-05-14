@@ -1,9 +1,0 @@
-{
-  "name": "91305-editar",
-  "slug": "91305-editar",
-  "scheme": "91305-editar",
-  "plugins": [
-    "expo-router",
-    "expo-sqlite"
-  ]
-}
